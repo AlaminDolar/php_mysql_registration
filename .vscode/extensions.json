@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "jakebathman.mysql-syntax",
+        "odubuc.mysql-inline-decorator"
+    ]
+}
